@@ -1,1 +1,2 @@
 this is a text file
+text file has some changes
